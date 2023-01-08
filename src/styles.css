@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: bisque;
+  border: 2px solid black;
+}
+h1 {
+  background-color: palevioletred;
+  font-size: 30px;
+}
+input {
+  width: 60px;
+  text-align: center;
+  padding: 20px;
+  font-size: 50px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+button {
+  width: 60px;
+  padding: 1px;
+  background-color: purple;
+  color: white;
+  font-size: 30px;
+  clip-path: circle();
+}
+h4 {
+  background-color: violet;
+  font-size: 20px;
+  padding: 3px;
+}
